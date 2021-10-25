@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0px;
+    box-shadow: 1px 2px 1px red;
+}
+
+.color{
+    color: white !important;
+    margin-right: 200px !important;
+}
